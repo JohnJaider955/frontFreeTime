@@ -1,0 +1,45 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Arial', sans-serif;
+}
+
+.titulo-pagina__container{
+  border: 2px solid #c00;
+  border-radius: 15px;
+  color: black;
+  padding: 15px 265px;
+  font-size: 20px;
+}
+
+.logo-posicion__container{
+  margin-right: 90px;
+  position: absolute;
+  display: flex;
+  top: 150px;
+}
+  
+.borde-contenido__container {
+  background-color: white;
+  position: relative;
+  margin-top: -950px;
+  border: 2px solid #c00;
+  padding: 15px 200px;
+  border-radius: 15px;
+}
+  
+.botones-caja__container {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #c00;
+  color: white;
+  border: 2px solid #c00;
+  font-size: 30px;
+  border-radius: 15px;
+}
+  
